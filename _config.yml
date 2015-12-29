@@ -1,6 +1,6 @@
-name: ximalaya's blog
-description: team blog
-meta_description: "ximalaya's blog"
+name: cossea's blog
+description: cossea blog
+meta_description: "cossea's blog"
 
 markdown: redcarpet
 pygments: true
@@ -8,5 +8,5 @@ logo: false
 paginate: 15
 
 # Details for the RSS feed generator
-url:            'ximalaya.github.io'
-author:         'ximalaya'
+url:            'cossea.github.io'
+author:         'cossea'
